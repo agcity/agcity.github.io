@@ -1,4 +1,4 @@
-package com.agcity.swan.concurrent;
+package io.github.agcity.concurrent;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.agcity.swan.drools;
+package io.github.agcity.drools;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
