@@ -8,13 +8,14 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>swan</name>
+    <name>agcity</name>
     <description>Swan project for Spring Boot</description>
 
     <modules>
         <module>cglib</module>
         <module>concurrent</module>
         <module>drools</module>
+        <module>netty</module>
     </modules>
 
     <dependencyManagement>
