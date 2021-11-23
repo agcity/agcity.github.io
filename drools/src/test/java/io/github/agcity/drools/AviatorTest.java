@@ -1,4 +1,4 @@
-package com.agcity.swan.drools;
+package io.github.agcity.drools;
 
 import com.googlecode.aviator.AviatorEvaluator;
 import com.googlecode.aviator.Expression;

@@ -1,4 +1,4 @@
-package com.agcity.swan.drools;
+package io.github.agcity.drools;
 
 import com.googlecode.aviator.runtime.function.AbstractFunction;
 import com.googlecode.aviator.runtime.function.FunctionUtils;
